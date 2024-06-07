@@ -23,7 +23,7 @@
                         </div>
                         <!-- end page title -->
 
-                        <div class="row">
+                        <!-- <div class="row">
                             <div class="col-xl-3 col-md-6">
                                 <div class="card">
                                     <div class="card-body">
@@ -39,10 +39,10 @@
                                                 </span>
                                             </div>
                                         </div>                                            
-                                    </div><!-- end cardbody -->
+                                    </div>end cardbody -->
                                 </div><!-- end card -->
                             </div><!-- end col -->
-                            <div class="col-xl-3 col-md-6">
+                            <!-- <div class="col-xl-3 col-md-6">
                                 <div class="card">
                                     <div class="card-body">
                                         <div class="d-flex">
@@ -57,10 +57,10 @@
                                                 </span>
                                             </div>
                                         </div>                                              
-                                    </div><!-- end cardbody -->
-                                </div><!-- end card -->
-                            </div><!-- end col -->
-                            <div class="col-xl-3 col-md-6">
+                                    </div>
+                                </div>
+                            </div>
+                           <div class="col-xl-3 col-md-6">
                                 <div class="card">
                                     <div class="card-body">
                                         <div class="d-flex">
@@ -75,10 +75,10 @@
                                                 </span>
                                             </div>
                                         </div>                                              
-                                    </div><!-- end cardbody -->
-                                </div><!-- end card -->
-                            </div><!-- end col -->
-                            <div class="col-xl-3 col-md-6">
+                                    </div>
+                                </div>
+                            </div> -->
+                            <!-- <div class="col-xl-3 col-md-6">
                                 <div class="card">
                                     <div class="card-body">
                                         <div class="d-flex">
@@ -93,15 +93,15 @@
                                                 </span>
                                             </div>
                                         </div>                                              
-                                    </div><!-- end cardbody -->
-                                </div><!-- end card -->
-                            </div><!-- end col -->
-                        </div><!-- end row -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div> -->
 
-                        <div class="row">
+                        <!-- <div class="row"> -->
                        
     
-                        <div class="row">
+                        <!-- <div class="row">
                             <div class="col-xl-12">
                                 <div class="card">
                                     <div class="card-body">
@@ -110,8 +110,8 @@
                                                 <i class="mdi mdi-dots-vertical"></i>
                                             </a>
                                            
-                                        </div>
-    
+                                        </div> -->
+<!--     
                                         <h4 class="card-title mb-4">Latest Transactions</h4>
     
                                         <div class="table-responsive">
@@ -125,10 +125,10 @@
                                                         <th>Start date</th>
                                                         <th style="width: 120px;">Salary</th>
                                                     </tr>
-                                                </thead><!-- end thead -->
-                                                <tbody>
-                                                    <tr>
-                                                        <td><h6 class="mb-0">Charles Casey</h6></td>
+                                                </thead> -->
+                                                <!-- <tbody> -->
+                                                    <!-- <tr> -->
+                                                        <!-- <td><h6 class="mb-0">Charles Casey</h6></td>
                                                         <td>Web Developer</td>
                                                         <td>
                                                             <div class="font-size-13"><i class="ri-checkbox-blank-circle-fill font-size-10 text-success align-middle me-2"></i>Active</div>
@@ -140,9 +140,9 @@
                                                             04 Apr, 2021
                                                         </td>
                                                         <td>$42,450</td>
-                                                    </tr>
+                                                    </tr> -->
                                                      <!-- end -->
-                                                     <tr>
+                                                     <!-- <tr>
                                                         <td><h6 class="mb-0">Alex Adams</h6></td>
                                                         <td>Python Developer</td>
                                                         <td>
@@ -155,9 +155,9 @@
                                                             01 Aug, 2021
                                                         </td>
                                                         <td>$25,060</td>
-                                                    </tr>
+                                                    </tr> -->
                                                      <!-- end -->
-                                                     <tr>
+                                                     <!-- <tr>
                                                         <td><h6 class="mb-0">Prezy Kelsey</h6></td>
                                                         <td>Senior Javascript Developer</td>
                                                         <td>
@@ -170,9 +170,9 @@
                                                             15 Jun, 2021
                                                         </td>
                                                         <td>$59,350</td>
-                                                    </tr>
+                                                    </tr> -->
                                                      <!-- end -->
-                                                     <tr>
+                                                     <!-- <tr>
                                                         <td><h6 class="mb-0">Ruhi Fancher</h6></td>
                                                         <td>React Developer</td>
                                                         <td>
@@ -185,11 +185,11 @@
                                                             01 March, 2021
                                                         </td>
                                                         <td>$23,700</td>
-                                                    </tr>
+                                                    </tr> -->
                                                      <!-- end -->
-                                                     <tr>
-                                                        <td><h6 class="mb-0">Juliet Pineda</h6></td>
-                                                        <td>Senior Web Designer</td>
+                                                     <!-- <tr>
+                                                        <td><h6 class="mb-0">Juliet Pineda</h6></td> -->
+                                                        <!-- <td>Senior Web Designer</td>
                                                         <td>
                                                             <div class="font-size-13"><i class="ri-checkbox-blank-circle-fill font-size-10 text-success align-middle me-2"></i>Active</div>
                                                         </td>
@@ -200,9 +200,9 @@
                                                             01 Jan, 2021
                                                         </td>
                                                         <td>$69,185</td>
-                                                    </tr>
+                                                    </tr> -->
                                                      <!-- end -->
-                                                     <tr>
+                                                     <!-- <tr>
                                                         <td><h6 class="mb-0">Den Simpson</h6></td>
                                                         <td>Web Designer</td>
                                                         <td>
@@ -215,9 +215,9 @@
                                                             01 Sep, 2021
                                                         </td>
                                                         <td>$37,845</td>
-                                                    </tr>
+                                                    </tr> -->
                                                      <!-- end -->
-                                                     <tr>
+                                                     <!-- <tr>
                                                         <td><h6 class="mb-0">Mahek Torres</h6></td>
                                                         <td>Senior Laravel Developer</td>
                                                         <td>
@@ -231,14 +231,14 @@
                                                         </td>
                                                         <td>$55,100</td>
                                                     </tr>
-                                                     <!-- end -->
-                                                </tbody><!-- end tbody -->
-                                            </table> <!-- end table -->
+                                                 
+                                                </tbody>
+                                            </table> 
                                         </div>
-                                    </div><!-- end card -->
-                                </div><!-- end card -->
+                                    </div> -->
+                                </div>
                             </div>
-                            <!-- end col -->
+                       
                           
                         </div>
                         <!-- end row -->
